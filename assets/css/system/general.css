@@ -1,0 +1,99 @@
+.system_header_left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.system_header_right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.sys_header_logo {
+    max-height: 35px;
+    max-width: 165px;
+    width: auto;
+}
+
+.system_header_font{
+    font-size: 14px;
+}
+
+.system_header{
+    margin-top: 4px;
+    border-bottom: 1px solid #e9f0f7;
+}
+
+.sys_header_help_btn{
+    display: flex;
+    align-items: center;
+    color: #495b6e;
+    margin-left: auto;
+    font-size: 16px;
+    padding-right: 13px;
+    border-right: 2px solid #e0e6ed;
+    height: 20px;
+}
+
+.ant-btn.ant-btn-primary.system_header_help_btn{
+    background-color: white;
+    color: black;
+    border: 0;
+}
+
+.sys_header_user_info{
+    display: flex;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.header_userinfo{
+    font-size: 14px;
+    font-weight: 600;
+    color: #3d6291;
+    max-width: 100px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin-right: 5px;
+}
+
+.header_usercharacter {
+    max-width: 100px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin-right: 5px;
+    border-radius: 5px;
+    background-color: #f0f3f6;
+    font-size: 14px;
+}
+
+.sys_header_next{
+    display: flex;
+    align-items: center;
+}
+
+.system_header_next_btn{
+    border: 0;
+    border-right: solid 2px #e0e6ed;
+}
+
+.sys_body_left {
+    height: calc(100vh - 88px);
+    display: flex;
+    position: relative;
+    margin-top: 10px;
+}
+
+.sys_body_right {
+    height: calc(100vh - 88px);
+    margin-top: 10px;
+}
+
+.system_main_style{
+    background-color: #f7f9fa;
+}

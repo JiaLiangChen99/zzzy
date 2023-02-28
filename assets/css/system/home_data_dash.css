@@ -1,0 +1,47 @@
+.system_home_session_header {
+    position: relative;
+    height: 42px;
+    line-height: 42px;
+    padding: 0 15px;
+    border-bottom: 1px solid #d9d4d4;
+    color: #333;
+    border-radius: 2px 2px 0 0;
+    font-size: 18px;
+    background-color: white;
+}
+
+.home_session_left_div{
+    margin-top: 15px;
+}
+
+.home_one_of_session{
+    display: flex;
+    align-items: center;
+    margin: 15px;
+    border-bottom: 1px solid #EEE;
+}
+
+.session_info_div{
+        margin-left: 15px;
+}
+
+.session_info_div header{
+        font: 14px Helvetica Neue,Helvetica,PingFang SC,Tahoma,Arial,sans-serif;
+    background-color: white;
+    height: 20px;
+    padding: 0px 3px 0px 5px;
+    margin-bottom: 10px;
+}
+
+.session_info_div span{
+    padding-left: 5px;
+}
+
+.one_session_header{
+    display: flex;
+    align-items: center;
+}
+
+.one_session_time{
+        margin-left: 30px;
+}

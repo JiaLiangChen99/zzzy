@@ -1,0 +1,39 @@
+.genecompare_hader {
+    background-color: white;
+}
+
+.ant-layout-header.sys-function-header{
+    background: white;
+    font-size: 20px;
+    font-weight: 700;
+    border-bottom: 1px solid #EBEBEB;
+    padding: 0 10px;
+}
+
+
+.gene-analyse-header{
+    padding: 12px;
+    border-bottom: 1px solid #EBEBEB;
+}
+
+.header_text{
+    font-size: 15px;
+    padding: 5px;
+}
+
+.compare_gene_form_btn {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.gene_analyse_tab{
+    margin-top: 15px;
+}
+
+.compare_table_style{
+    margin-top: 15px;
+}
+
+.compare_table_style th {
+    background-color:  rgb(242 244 243);
+}
